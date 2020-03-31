@@ -2,7 +2,7 @@
 
 /* @flow */
 
-import React, { PropTypes, Component } from 'react';
+import React, { Component } from 'react';
 import {
   Platform,
   View,
@@ -10,6 +10,7 @@ import {
   LayoutAnimation,
   UIManager,
 } from 'react-native';
+import PropTypes from 'prop-types';
 
 type Props = {
   offset?: number,
