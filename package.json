@@ -1,6 +1,6 @@
 {
   "name": "react-native-keyboard-space",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native Keyboard Space",
   "main": "dist/main.js",
   "scripts": {
@@ -28,7 +28,8 @@
     "url": "https://github.com/dwicao/react-native-keyboard-space/issues"
   },
   "homepage": "https://github.com/dwicao/react-native-keyboard-space#readme",
-  "dependencies": {
+  "dependencies": {},
+  "peerDependencies": {
     "prop-types": "^15.7.2"
   }
 }
